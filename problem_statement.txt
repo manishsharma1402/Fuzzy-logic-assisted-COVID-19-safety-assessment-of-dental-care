@@ -1,0 +1,62 @@
+                    *************PROBLEM STATEMENT*************
+
+45)   
+          Fuzzy logic assisted COVID 19 safety assessment of dental care. In this problem i have to create 
+          a application/ GUI with the use of tkinter . this application should take inputs from user and 
+          after chacking all the conditions  it should book a appoinntment , if any of conditions are false 
+          then it should not book an appointment for user/patient. In this problem fuzzy logic should take 
+          decision by itself after analysing all the conditions.
+ 
+          there are two type of services :
+          a) Emergancy Services :
+
+        example 1)
+           
+           Input for this -
+
+                body temperature of patient : 37.5
+           
+           output for this -
+
+               your body temp. is high , you will be shifted to isolated ward.
+               your appointment is booked.
+
+        Example 2)
+
+             Input for this -
+
+                body temperature of patient : 35
+           
+           output for this -
+
+               your body temp. is ok , you will be shifted to normal  ward.
+                your appointment is booked successfully.
+
+
+   b) Regular Services :
+
+        example 1)
+           
+           Input for this -
+
+                body temperature of patient : 34.5
+                any recent travel : NO
+                do you live in containment Zone: yes
+           
+           output for this -
+
+               you live in containment zone , so you can't come for regular checkup.
+               your appointment can't be booked.
+
+        Example 2)
+
+             Input for this -
+
+                body temperature of patient : 35
+                any recent travel : NO
+                do you live in containment Zone: NO
+           
+           output for this -
+
+               you can come for regular checkup.
+                your appointment is booked successfully.
