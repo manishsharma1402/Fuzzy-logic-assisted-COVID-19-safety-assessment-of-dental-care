@@ -17,3 +17,10 @@ or non-isolated ward.
  and it will just close the app.
  
  If our appointment is booked successfully then it will show a popup message of booking confirmaion .
+
+ https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int-246-project-manishsharma1402/master/Screenshot%20(24).png?token=AK4TT6JCCGA4VEBUQUBVMOC7TUHZK
+ 
+ https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int-246-project-manishsharma1402/master/Screenshot%20(24).png?token=AK4TT6MSHCHKG36KRIYK3KK7TUH4O
+ 
+ https://raw.githubusercontent.com/Lovely-Professional-University-CSE/int-246-project-manishsharma1402/master/Screenshot%20(26).png?token=AK4TT6LDH2SXDMDL53EMYQK7TUH6W
+ 
